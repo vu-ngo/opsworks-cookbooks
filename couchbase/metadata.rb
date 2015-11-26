@@ -1,0 +1,6 @@
+name             "couchbase"
+maintainer       "Vu Ngo"
+maintainer_email "vungo@3drobotics.com"
+license          "Apache 2.0"
+description      "Installs/Configures couchbase via DEB package"
+version          "0.0.1"
